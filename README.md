@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Jonathan Moreira
+#### **Data & Analytics Engineer | E-commerce Analytics & Inventory Intelligence**
 
-<!--
-**ojonathanluis/ojonathanluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in turning raw transactional data into actionable business insights, robust analytical pipelines, and automated operational decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages & Querying:** Python (Pandas, NumPy), Advanced SQL (PostgreSQL, Amazon Athena)
+* **Data Engineering & Cloud:** AWS (S3, Glue), ETL Pipelines, Parquet
+* **Analytics & BI:** Power BI, DAX, Advanced Excel (Validation & Modeling)
+* **Automation & Ops:** n8n (Workflow Automation)
+
+---
+
+### 🚀 Featured Project
+#### **[Demand Forecasting & Inventory Intelligence](https://github.com/seu-utilizador/demand-forecasting-inventory)**
+* **Context:** End-to-end data analytics and forecasting project using the *Online Retail II* dataset (1M+ rows).
+* **Highlights:** Handles complex data quality issues (returns/cancellations), implements advanced SQL analytical layers, simulates demand uncertainty (Monte Carlo), and outlines a cloud migration path to AWS.
+
+---
+📫 **Let's connect:** [O seu LinkedIn]
