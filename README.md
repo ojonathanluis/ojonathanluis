@@ -14,9 +14,9 @@ I specialize in turning raw transactional data into actionable business insights
 ---
 
 ### 🚀 Featured Project
-#### **[Demand Forecasting & Inventory Intelligence](https://github.com/seu-utilizador/demand-forecasting-inventory)**
+#### **[Demand Forecasting & Inventory Intelligence](https://github.com/ojonathanluis/demand-forecasting-inventory)**
 * **Context:** End-to-end data analytics and forecasting project using the *Online Retail II* dataset (1M+ rows).
 * **Highlights:** Handles complex data quality issues (returns/cancellations), implements advanced SQL analytical layers, simulates demand uncertainty (Monte Carlo), and outlines a cloud migration path to AWS.
 
 ---
-📫 **Let's connect:** [O seu LinkedIn]
+📫 **Let's connect:** [Linkedin](https://www.linkedin.com/in/jonathan-moreira-97a0a1312)
